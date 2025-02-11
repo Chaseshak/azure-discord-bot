@@ -1,0 +1,24 @@
+{
+  "name": "azure-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for interacting with Azure resources. Primarily for VM management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaseshak/azure-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaseshak/azure-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Chaseshak/azure-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "express": "^4.21.2"
+  }
+}
